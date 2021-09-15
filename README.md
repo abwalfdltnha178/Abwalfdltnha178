@@ -14,7 +14,11 @@ You can click the Preview link to take a look at your changes.
 <head>
 <title>صفحه وب</title>
 <body>
-
+<button>text</button>
+<style type:text/css>
+button{width:100%;height:100px;
+background-color:#3cadd4;color:white;}
+</style>
 </body>
 </head>
 </html>
